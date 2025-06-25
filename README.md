@@ -1,3 +1,4 @@
-libraries: random, string, os, requests, colorama
+How to use the script:
 
-needing installation: requests, colorama
+- Open requirements.bat FIRST
+- Then open start.bat
