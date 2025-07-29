@@ -7,17 +7,19 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 ASCII_BANNER = r"""
-.___  ___.  _______   ______   ____    ____ 
-|   \/   | |   ____| /  __  \  \   \  /   / 
-|  \  /  | |  |__   |  |  |  |  \   \/   /  
-|  |\/|  | |   __|  |  |  |  |   \      /   
-|  |  |  | |  |____ |  `--'  |    \    /    
-|__|  |__| |_______| \______/      \__/     
+
+
+   _   _   _     _   _   _  
+  / \ / \ / \   / \ / \ / \ 
+ ( I | C | E ) ( G | E | N )
+  \_/ \_/ \_/   \_/ \_/ \_/ 
+
+
                                              
 """
 
 print(ASCII_BANNER)
-print("Credits to ocuz (Clemouche) :)\n")
+print("Credits to Punzow (Clemouche) :)\n")
 
 print("Choose a pattern:\n")
 
